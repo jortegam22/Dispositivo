@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\des\\azure-iot-samples-csharp-master (1)\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\simulated-device.csproj": {}
+    "F:\\TFM\\Dispositivo\\simulated-device\\simulated-device.csproj": {}
   },
   "projects": {
-    "F:\\des\\azure-iot-samples-csharp-master (1)\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\simulated-device.csproj": {
+    "F:\\TFM\\Dispositivo\\simulated-device\\simulated-device.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\des\\azure-iot-samples-csharp-master (1)\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\simulated-device.csproj",
+        "projectUniqueName": "F:\\TFM\\Dispositivo\\simulated-device\\simulated-device.csproj",
         "projectName": "simulated-device",
-        "projectPath": "F:\\des\\azure-iot-samples-csharp-master (1)\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\simulated-device.csproj",
+        "projectPath": "F:\\TFM\\Dispositivo\\simulated-device\\simulated-device.csproj",
         "packagesPath": "C:\\Users\\Propietario\\.nuget\\packages\\",
-        "outputPath": "F:\\des\\azure-iot-samples-csharp-master (1)\\azure-iot-samples-csharp-master\\iot-hub\\Quickstarts\\simulated-device\\obj\\",
+        "outputPath": "F:\\TFM\\Dispositivo\\simulated-device\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
